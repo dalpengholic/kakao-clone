@@ -39,7 +39,7 @@ The project was built with only html and css. No backend at all.
 2 directories, 22 files
 ```
 ## License
-This source code is made available under the (MIT License)[https://github.com/dalpengholic/kakao-clone/blob/master/LICENSE]
+This source code is made available under the [MIT License](https://github.com/dalpengholic/kakao-clone/blob/master/LICENSE)
 
 ## Acknowledgements
 This project is given by [Nomadcoder.co](https://nomadcoders.co)
