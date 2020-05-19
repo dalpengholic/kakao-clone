@@ -5,8 +5,8 @@ This is a project of cloning Kakao Talk messenger, which is the most popular mes
 The project was built with only html and css. No backend at all.
 
 ## Showcase
-1) at [GitHub page](https://dalpengholic.github.io/kakao-clone/)
-2) at [Surge](http://erect-rabbits.surge.sh)
+1) [GitHub page](https://dalpengholic.github.io/kakao-clone/)
+2) [Surge](http://erect-rabbits.surge.sh)
 
 ## File Structure
 ```
