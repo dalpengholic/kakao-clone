@@ -1,6 +1,7 @@
 # Kakao Talk Messenger Clone Project
 ## Introduction  
 This is a project of cloning Kakao Talk messenger, which is the most popular messenger app in South Korea.
+
 The project was built with only html and css. No backend at all.
 
 ## Showcase
